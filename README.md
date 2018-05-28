@@ -1,6 +1,6 @@
 ## Sadia Rubab
 
-[Image](C:\Users\Nazar Abbas\Documents\sadia.png)
+![Image](C:\Users\Nazar Abbas\Documents\sadia.png)
 
 ### About Me
 
