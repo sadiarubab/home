@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Sadia Rubab
 
-You can use the [editor on GitHub](https://github.com/sadiarubab/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently first year PhD student at State Key Lab of CAD & CG Zhejiang University. I am member of [ZJUVIS group](http://zjuvis.org/) where I work in the supervision of [Dr. Yingcai Wu](http://www.ycwu.org/). My current research focus on the authoring tools for visualization construction and analysis.  I recieved my M-Phil degree in Computer Science from Quaid-i-Azam Univeristy and Bachelors degree in Software Engineering from Fatima Jinnah Women Univerity. Prior to joining Zhejiang Univerity, I had worked as faculty member at [Prince Sattam Bin Abdulaziz University](https://psau.edu.sa/en), and COMSATS Institute of Information Technology [CIIT] (https://www.comsats.edu.pk/).
 
-### Markdown
+### Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email: sadia_rubab@zju.edu.cn
+Address: Mengminwei Building Room 408-2, Zijingang Campus, Zhejiang University, Hangzhou, China
+Follow me: [Research Gate](https://www.researchgate.net/profile/Sadia_Rubab), [LinkedIn](https://pk.linkedin.com/in/sadia-rubab-b7396b128) 
 
-```markdown
-Syntax highlighted code block
+### Publications
 
-# Header 1
-## Header 2
-### Header 3
+No items so far ...
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sadiarubab/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
