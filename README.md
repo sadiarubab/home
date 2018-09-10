@@ -16,7 +16,7 @@ Follow me: [Researchgate](https://www.researchgate.net/profile/Sadia_Rubab), [Li
 
 #### 2018
 
-iStoryline: Effective Convergence to Hand-drawn Storylines\
-Tan Tang, Sadia Rubab, Jiewen Lai, Weiwei Cui, Lingyun Yu, Yingcai Wu\
+iStoryline: Effective Convergence to Hand-drawn Storylines<br/>
+Tan Tang, Sadia Rubab, Jiewen Lai, Weiwei Cui, Lingyun Yu, Yingcai Wu<br/>
 [InfoVis TVCG](http://ieeevis.org/year/2018/info/papers#infovis), [PDF](http://zjuvis.org/files/istoryline.pdf), [Video](https://www.youtube.com/watch?v=on4KbLd2RiY)
 
