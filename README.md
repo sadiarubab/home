@@ -20,8 +20,7 @@ Audio-Visual Training and Feedback to learn Touch-based Gestures<br/>
 Sadia Rubab, Muhammad Wajeeh Uz Zaman, Umer Rashid, Lingyun Yu, Yingcai Wu <br/> 
 [J Vis (2024)](https://link.springer.com/article/10.1007/s12650-024-01012-x#citeas) <br/>
 
-<br/>
-<br/>
+
 <br/>
 
 Exploring Effective Relationships Between Visual-Audio Channels in Data Visualization <br/>
