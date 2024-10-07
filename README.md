@@ -29,15 +29,12 @@ Sadia Rubab, Lingyun Yu, Junxiu Tang, Yingcai Wu <br/>
 
 
 <br/>
-<br/>
-<br/>
 
 Examining interaction techniques in data visualization authoring tools from the perspective of goals and human cognition: a survey<br/>
 Sadia Rubab, Jinxiu Tang, Yingcai Wu <br/> 
 [J Vis (2021)](https://link.springer.com/article/10.1007/s12650-020-00705-3)
 
-<br/>
-<br/>
+
 <br/>
 
 iStoryline: Effective Convergence to Hand-drawn Storylines<br/>
