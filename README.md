@@ -10,8 +10,6 @@ Email: sadia_rubab@cuiatk.edu.pk
 
 Address: Department of Computer Science, COMASTS University Islamabad, Attock Campus, Attock, Punjab
 
-Follow me: [Researchgate](https://www.researchgate.net/profile/Sadia_Rubab), [LinkedIn](https://pk.linkedin.com/in/sadia-rubab-b7396b128) 
-
 ### Publications
 
 
