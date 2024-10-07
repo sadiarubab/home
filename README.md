@@ -16,10 +16,22 @@ Follow me: [Researchgate](https://www.researchgate.net/profile/Sadia_Rubab), [Li
 
 #### 2024
 
+Examining interaction techniques in data visualization authoring tools from the perspective of goals and human cognition: a survey<br/>
+Sadia Rubab, Jinxiu Tang, Yingcai Wu <br/> 
+JoV
+
 
 #### 2023
 
+Examining interaction techniques in data visualization authoring tools from the perspective of goals and human cognition: a survey<br/>
+Sadia Rubab, Jinxiu Tang, Yingcai Wu <br/> 
+JoV
+
 #### 2021
+
+Examining interaction techniques in data visualization authoring tools from the perspective of goals and human cognition: a survey<br/>
+Sadia Rubab, Jinxiu Tang, Yingcai Wu <br/> 
+JoV
 
 #### 2018
 
