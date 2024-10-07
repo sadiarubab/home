@@ -14,28 +14,34 @@ Follow me: [Researchgate](https://www.researchgate.net/profile/Sadia_Rubab), [Li
 
 ### Publications
 
-#### 2024
+
+
+Audio-Visual Training and Feedback to learn Touch-based Gestures<br/>
+Sadia Rubab, Muhammad Wajeeh Uz Zaman, Umer Rashid, Lingyun Yu, Yingcai Wu <br/> 
+[J Vis (2024)](https://link.springer.com/article/10.1007/s12650-024-01012-x#citeas) <br/>
+
+<br/>
+<br/>
+<br/>
+
+Exploring Effective Relationships Between Visual-Audio Channels in Data Visualization <br/>
+Sadia Rubab, Lingyun Yu, Junxiu Tang, Yingcai Wu <br/> 
+[J Vis (2023)](https://link.springer.com/article/10.1007/s12650-023-00909-3)
+
+
+<br/>
+<br/>
+<br/>
 
 Examining interaction techniques in data visualization authoring tools from the perspective of goals and human cognition: a survey<br/>
 Sadia Rubab, Jinxiu Tang, Yingcai Wu <br/> 
-JoV
+[J Vis (2021)](https://link.springer.com/article/10.1007/s12650-020-00705-3)
 
-
-#### 2023
-
-Examining interaction techniques in data visualization authoring tools from the perspective of goals and human cognition: a survey<br/>
-Sadia Rubab, Jinxiu Tang, Yingcai Wu <br/> 
-JoV
-
-#### 2021
-
-Examining interaction techniques in data visualization authoring tools from the perspective of goals and human cognition: a survey<br/>
-Sadia Rubab, Jinxiu Tang, Yingcai Wu <br/> 
-JoV
-
-#### 2018
+<br/>
+<br/>
+<br/>
 
 iStoryline: Effective Convergence to Hand-drawn Storylines<br/>
 Tan Tang, Sadia Rubab, Jiewen Lai, Weiwei Cui, Lingyun Yu, Yingcai Wu<br/>
-[InfoVis TVCG](http://ieeevis.org/year/2018/info/papers#infovis), [PDF](http://zjuvis.org/files/istoryline.pdf), [Video](https://www.youtube.com/watch?v=on4KbLd2RiY)
+[InfoVis TVCG 2018](http://ieeevis.org/year/2018/info/papers#infovis), [PDF](http://zjuvis.org/files/istoryline.pdf), [Video](https://www.youtube.com/watch?v=on4KbLd2RiY)
 
