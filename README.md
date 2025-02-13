@@ -2,13 +2,13 @@
 
 ### About Me
 
-I completed my PhD in Computer Science and Technology at the College of  Computer Science and Technology, Zhejiang University, under the guidance of [Professor Yingcai Wu](http://www.ycwu.org/). My PhD research focuses on multi-modal data representation and interaction, particularly integrating non-speech audio with interactive data visualizations. I have also worked on making authoring tools for visualization construction and analysis more accessible. Before my PhD. I received my M-Phil degree in Computer Science from Quaid-i-Azam University [QAU](http://cs.qau.edu.pk/index.php). I carried out research in the area of Human-Computer Interaction, with a focus on information-seeking behavior and interactive systems.  I received my bachelor's degree in Software Engineering from Fatima Jinnah Women University.  I currently serve as a faculty member in the Department of Computer Science at [COMSATS University, Islamabad Attock Campus](https://www.comsats.edu.pk/), bringing over 10 years of experience in teaching at the university level.
+I completed my PhD in Computer Science and Technology at the College of  Computer Science and Technology, Zhejiang University, under the guidance of [Professor Yingcai Wu](http://www.ycwu.org/). My PhD research focuses on multi-modal data representation and interaction, particularly integrating non-speech audio with interactive data visualizations. I have also worked on making authoring tools for visualization construction and analysis more accessible. Before my PhD. I received my M-Phil degree in Computer Science from Quaid-i-Azam University [QAU](http://cs.qau.edu.pk/index.php). I carried out research in the area of Human-Computer Interaction, with a focus on information-seeking behavior and interactive systems.  I received my bachelor's degree in Software Engineering from Fatima Jinnah Women University.  I have over 12 years of teaching experience at the university level. I served as a Lecturer of Computer Science at Prince Sattam bin Abdul Aziz University in Saudi Arabia from April 2012 to August 2016 and at COMSATS University, Islamabad, Attock Campus from September 2016 to January 2025. Since February 2025, I have been working as an Assistant Professor in the Department of Software Engineering at Foundation University.
 
 ### Contact
 
-Email: sadia_rubab@cuiatk.edu.pk
+Email: drsadia.rubab@fui.edu.pk
 
-Address: Department of Computer Science, COMASTS University Islamabad, Attock Campus, Attock, Punjab
+Address: Department of Software Engineering, Foundation University, Islamabad
 
 ### Publications
 
